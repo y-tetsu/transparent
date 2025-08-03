@@ -1,1 +1,1 @@
-pyinstaller --onefile --noconsole --icon=transparent.ico --name transparent transparent.py
+pyinstaller --onefile --icon=transparent.ico --name transparent transparent.py
